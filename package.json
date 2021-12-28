@@ -43,7 +43,7 @@
     "simple-git-hooks": "^2.7.0",
     "spectron": "^15.0.0",
     "typescript": "^4.5.4",
-    "vite": "^2.7.8",
+    "vite": "^2.7.9",
     "vue-tsc": "^0.30.1"
   },
   "dependencies": {

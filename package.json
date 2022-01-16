@@ -44,7 +44,7 @@
     "spectron": "^15.0.0",
     "typescript": "^4.5.4",
     "vite": "^2.7.12",
-    "vue-tsc": "^0.30.3"
+    "vue-tsc": "^0.30.4"
   },
   "dependencies": {
     "electron-updater": "^4.6.5",
